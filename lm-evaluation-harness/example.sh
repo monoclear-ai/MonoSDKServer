@@ -1,0 +1,2 @@
+python main.py --model chatgpt --tasks kobest_copa --num_fewshot 1 --limit 10 --evaluation kor_textonly
+# python main.py --model chatgpt --tasks kobest_copa --num_fewshot 1 --limit 10 --evaluation logprob
